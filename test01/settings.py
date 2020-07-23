@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'guojin', # 郭进的模块
     'xuyazhen', # 续雅桢的模块
+    'cuijiayu',  # 崔嘉宇的模块
 ]
 
 MIDDLEWARE = [
